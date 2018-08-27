@@ -1,0 +1,27 @@
+version 1.1.7
+- message corrections per Inky's and ForestDragon's remarks
+- added short stories about the town and citizens after the dragon incident
+
+version 1.1.6
+- added death toll and top damage dealers list on victory
+
+version 1.1.5
+- more dialog corrections by ForestDragon
+
+version 1.1.4
+- updated dialogs according to ForestDragon's remarks
+
+version 1.1.3
+- fixed several spelling mistakes
+
+version 1.1.2
+- renamed 'berserk' weapon specials to 'rage' to avoid confusion
+- added dragon animation for several events
+
+version 1.1.1
+- switched to Rich Marinaccio's Dragons
+
+version 1.1.0
+- chief guard is now Lieutenant instead of Sergeant on the hard difficulty
+- added new item to the magic school
+- mage mentor is now Red Mage instead of Arch Mage on the easy difficulty, so he won't be super powerful with the new item
