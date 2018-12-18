@@ -1,0 +1,13 @@
+author="sergey"
+description="An enormous infernal creature approaches your town. Look into the jaws of the beast and show what you are made of.
+Access the scenario through the campaign menu. (Intermediate level, 1 scenario.)"
+email="svlavrenyuk@gmail.com"
+icon="attacks/fire-breath-drake.png"
+passphrase=
+title="Dragon Fight"
+type="scenario"
+dependencies="Rich_Marinaccios_Dragons"
+version="1.1.8"
+[feedback]
+    topic_id=44943
+[/feedback]

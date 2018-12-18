@@ -1,3 +1,8 @@
+version 1.1.8
+- ported to Wesnoth 1.14
+- simplified death toll and top damage dealers code to work under 1.14
+- hp and xp bars are oddly displayed for large units in 1.14, hide dragon's bars
+
 version 1.1.7
 - message corrections per Inky's and ForestDragon's remarks
 - added short stories about the town and citizens after the dragon incident
