@@ -1,3 +1,6 @@
+version 1.1.9
+- fixed completion laurel reported by Konrad2
+
 version 1.1.8
 - ported to Wesnoth 1.14
 - simplified death toll and top damage dealers code to work under 1.14
